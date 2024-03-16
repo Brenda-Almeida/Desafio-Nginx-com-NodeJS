@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Desafio do curso da Full Cycle de Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brenda-Almeida/Desafio-Nginx-com-NodeJS-.git"
+  },
+  "author": "Brenda-Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brenda-Almeida/Desafio-Nginx-com-NodeJS-/issues"
+  },
+  "homepage": "https://github.com/Brenda-Almeida/Desafio-Nginx-com-NodeJS-#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mysql": "^2.18.1"
+  }
+}
